@@ -1,4 +1,4 @@
-# CPU и GPU (по сути)
+# CPU и GPU
 
 ## CPU
 
